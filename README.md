@@ -71,4 +71,4 @@ streamlit run app.py
 ### Step 4: Deploy App Online
 1. Commit repository to GitHub.
 >>>>>>> origin/main
-2. Deploy on Streamlit community cloud.
+2. Deploy on Streamlit community cloud."# newone" 
