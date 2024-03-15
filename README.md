@@ -72,3 +72,4 @@ streamlit run app.py
 1. Commit repository to GitHub.
 >>>>>>> origin/main
 2. Deploy on Streamlit community cloud."# newone" 
+"# newnew" 
